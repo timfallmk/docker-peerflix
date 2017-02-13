@@ -1,4 +1,4 @@
-FROM google/nodejs
+FROM node
 MAINTAINER "Tim <tim@midokura.com>"
 
 RUN npm install -g peerflix
